@@ -1,0 +1,8 @@
+../Core/Src/mySrc/MotorWriters.c:12:6:applySoftwareLock	1
+../Core/Src/mySrc/MotorWriters.c:17:6:disableSoftwareLock	1
+../Core/Src/mySrc/MotorWriters.c:23:6:enableXMotor	2
+../Core/Src/mySrc/MotorWriters.c:28:6:disableXMotor	1
+../Core/Src/mySrc/MotorWriters.c:34:6:enableYMotor	2
+../Core/Src/mySrc/MotorWriters.c:40:6:disableYMotor	1
+../Core/Src/mySrc/MotorWriters.c:51:9:setXSpeed	7
+../Core/Src/mySrc/MotorWriters.c:92:9:setYSpeed	6

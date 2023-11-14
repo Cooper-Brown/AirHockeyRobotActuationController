@@ -1,0 +1,2 @@
+../Core/Src/mySrc/Communication.c:19:6:receiveTargetCoordinate	64	static
+../Core/Src/mySrc/Communication.c:64:6:commandReceived	56	dynamic

@@ -1,0 +1,3 @@
+../Core/Src/mySrc/myMain.c:23:6:updateRobotPosition	16	static
+../Core/Src/mySrc/myMain.c:34:6:myInit	24	static
+../Core/Src/mySrc/myMain.c:95:6:myLoopInternals	8	static
